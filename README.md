@@ -1,4 +1,7 @@
-# README
+# GraphQL & Ruby on Rails (6) test project
+
+Build an album library with title, band name, cover, link & track list
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
