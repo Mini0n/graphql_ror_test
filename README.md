@@ -1,4 +1,4 @@
-# GraphQL & Ruby on Rails (6) test project
+# GraphQL & Ruby on Rails (6) test project, with React!
 
 Build an album library with title, band name, cover, link & track list
 
